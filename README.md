@@ -13,8 +13,8 @@ Foi necessário menos de 20 linhas de código para executar a raspagem de dados,
 - Biblioteca **Requests** (para requisições HTTP)
 - Biblioteca **BeautifulSoup** (o alicerce para projetos de Web Scraping em Python)
 
-Resultado da execução do código: 
-
+## ✅ Resultado da execução do código
+```text
 Nome do Livro: A Light in the Attic
 Custo: £51.77
 
@@ -74,3 +74,4 @@ Custo: £51.33
 
 Nome do Livro: It's Only the Himalayas
 Custo: £45.17
+```
